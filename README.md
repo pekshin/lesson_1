@@ -1,2 +1,3 @@
 # lesson_1
-My 1 lesson on Python in the university.
+This program can translate the Roman numerals to European numerals.
+Only Python i have used. Please, write different suggestions that can improve the program.
