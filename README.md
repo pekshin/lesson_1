@@ -1,3 +1,4 @@
-# lesson_1
-This program can translate the Roman numerals to European numerals.
+# Lesson_1
+1. Program-translator Roman-European and European-Roman.
+This program can translate the Roman numerals to European numerals. Also, it can translate the European numerals to Roman numerals. 
 Only Python i have used. Please, write different suggestions that can improve the program.
